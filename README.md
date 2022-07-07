@@ -1,2 +1,4 @@
 # 2.Hafta_Odevi
 2. Hafta Ödevleri
+
+# MASTER BRANCHINI KONTROL EDINIZ LUTFEN
