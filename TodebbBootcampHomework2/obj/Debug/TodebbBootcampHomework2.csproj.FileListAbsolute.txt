@@ -1,0 +1,7 @@
+C:\Users\MERT\RiderProjects\TodebbBootcampHomework2\TodebbBootcampHomework2\bin\Debug\TodebbBootcampHomework2.exe
+C:\Users\MERT\RiderProjects\TodebbBootcampHomework2\TodebbBootcampHomework2\bin\Debug\TodebbBootcampHomework2.pdb
+C:\Users\MERT\RiderProjects\TodebbBootcampHomework2\TodebbBootcampHomework2\obj\Debug\TodebbBootcampHomework2.csproj.AssemblyReference.cache
+C:\Users\MERT\RiderProjects\TodebbBootcampHomework2\TodebbBootcampHomework2\obj\Debug\TodebbBootcampHomework2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT\RiderProjects\TodebbBootcampHomework2\TodebbBootcampHomework2\obj\Debug\TodebbBootcampHomework2.csproj.CoreCompileInputs.cache
+C:\Users\MERT\RiderProjects\TodebbBootcampHomework2\TodebbBootcampHomework2\obj\Debug\TodebbBootcampHomework2.exe
+C:\Users\MERT\RiderProjects\TodebbBootcampHomework2\TodebbBootcampHomework2\obj\Debug\TodebbBootcampHomework2.pdb
